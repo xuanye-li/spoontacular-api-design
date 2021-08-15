@@ -1,0 +1,10 @@
+We generated requirements and made major design decisions by committee in group meetings. The majority of implementation 
+and testing was done individually, with the team checking in and providing input regularly. We then split up work on the 
+report and presentation, which we then reviewed and finalized as a group.
+
+| Person | Attribution |
+| --- | --- |
+| Adrian |  <ul><li> Implemented the Parser, Restful API requester helper and Restful API unit test </li><li> Designed and drafted the prototype of RecipeSearcher </li><li> Fixed minor errors and make sure the code base is always compilable </li><li> Interviewed with friends to gather feedbacks for V1 </li><li> Wrote and presented the Example Use Case, Requirement and Solution slides of the presentation </li> |
+| Muhammad |  <ul><li> Designed Recipe class and Diet, Intolerance, Cuisine, and Nutrient enums (w/ Henry) </li><li> Implemented Recipe, RecipeSearcher, and RecipeSearcher.Builder classes </li><li> Wrote sample client code </li><li> Presented live demonstration with explanation </li><li> Authored initial report draft </li> |
+| Xuan |  <ul><li> Designed the Equipment, Ingredient, Step, and Amount classes </li><li> Implemented the Nutrient enum, Step, and Equipment classes </li><li> Wrote sample client code </li><li> Interviewed a friend to gather more feedback for V1 </li><li> Wrote and presented the Evaluation and Future Work section of the presentation </li> |
+| Henry |  <ul><li> Designed Recipe class and Diet, Intolerance, Cuisine, and Nutrient enums (w/ Muhammad) </li><li> Implemented and took lead in the Amount and Ingredient classes </li><li> Wrote the initial API javadoc </li><li> Authored the design rational and requirements documentation </li><li> Wrote and presented the Introduction and API Flaws slides of the presentation </li> |
